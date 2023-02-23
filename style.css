@@ -1,0 +1,41 @@
+body {
+    font-family: 'Shantell Sans', cursive;
+    text-align:center
+}
+
+#hero{
+    width: 592px;
+    margin: 0 auto 72px;
+}
+
+#hero img{
+    margin-bottom: 72px;
+}
+
+h1 {
+    font-family: 'Tilt Prism', cursive;
+}
+
+h1 {
+    font-family: 'Tilt Prism', cursive;
+    font-weight: bold;
+}
+
+p, #footer {
+    font-size: 14px;
+    line-height: 22px;
+}
+#footer a+a{
+    margin-left: 28px;
+}
+
+#footer #line{
+    width: 568px;
+    height: 0px;
+    border: 1px solid #ECEFF2;
+    margin: 0 auto 8px;
+}
+
+span, a{
+    color:orange
+}
